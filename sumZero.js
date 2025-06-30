@@ -12,7 +12,6 @@ function sumPairZero(arr) {
   }
 }
 
-let hero = "sda";
 
 
 console.log(sumPairZero([-5, -4, -3, -2, 0, 2, 4, 6, 8]));
