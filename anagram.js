@@ -12,7 +12,7 @@ function isAanagram(str1, str2) {
     if (!strCountObj[letter]) {
       false;
     }
-    strCountObj[letter]--
+    strCountObj[letter]--;
   }
   return true;
 }

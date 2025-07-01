@@ -8,5 +8,8 @@ function reverseArray() {
   return result;
 }
 
-const result = reverseArray(arr)
-console.log(result)
+const result = reverseArray(arr);
+
+
+
+console.log(result);
